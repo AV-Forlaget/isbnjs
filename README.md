@@ -8,6 +8,10 @@ An ISBN JavaScript Library
     ender build isbn
 
     var ISBN = require('isbn').ISBN;
+    
+Or in typescript
+
+    import { ISBN } from 'isbn'
 
 Now supports Bower 
 
