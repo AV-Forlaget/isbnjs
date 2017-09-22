@@ -1,10 +1,17 @@
 isbnjs
 ====
 
-An ISBN JavaScript Library
+An ISBN JavaScript Library.
 
-    npm install isbn
+Install from this git branch
 
+    npm install isbn@https://github.com/AV-Forlaget/isbnjs#master
+    
+    
+Install from npm
+
+    npm install isbn
+    
     ender build isbn
 
     var ISBN = require('isbn').ISBN;
