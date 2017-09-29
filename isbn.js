@@ -230,6 +230,6 @@ var G = require('./isbn-groups')
 Object.assign(ISBN, G.ISBN)
 
 //   var exports = typeof window === 'object' && window ? window: module.exports;
-  module.exports = {ISBN};
+  module.exports = {ISBN: ISBN};
 }());
 
